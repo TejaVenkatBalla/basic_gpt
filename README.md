@@ -1,7 +1,12 @@
 # Basic GPT
 
 ## Description
-This project is a basic implementation of a GPT-based application, utilizing both client and server components.
+This project is a web application that utilizes the OpenAI API to generate text responses based on user input. It allows users to interact with the AI model and receive generated text based on their prompts.
+
+## Features
+- Built with Express.js for server-side functionality.
+- Supports CORS and handles JSON requests.
+- Interacts with the OpenAI API to generate text completions.
 
 ## Getting Started
 To set up the project locally, ensure you have the following prerequisites installed:
